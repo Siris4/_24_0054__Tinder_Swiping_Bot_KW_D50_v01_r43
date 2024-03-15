@@ -11,7 +11,7 @@ from datetime import datetime
 import time
 
 # Constants
-EMAIL = "g.morris.guru@gmail.com"
+EMAIL = "YOUR_EMAIL"
 
 # Function to log messages
 def log_message(message):
